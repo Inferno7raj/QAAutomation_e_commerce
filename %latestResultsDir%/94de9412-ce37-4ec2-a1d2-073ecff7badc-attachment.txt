@@ -1,0 +1,4 @@
+[32mINFO    [0m root:conftest.py:62 This user already exist, so please login with this user crediantials
+[32mINFO    [0m root:conftest.py:92 User is logged in with upswing_user_01 username
+[32mINFO    [0m root:product_browsing_page.py:88 Selected product is successfully added to the cart
+[32mINFO    [0m root:conftest.py:97 Closed the driver session.

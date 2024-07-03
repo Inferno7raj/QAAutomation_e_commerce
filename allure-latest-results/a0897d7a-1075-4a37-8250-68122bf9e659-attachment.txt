@@ -1,0 +1,4 @@
+[32mINFO    [0m root:conftest.py:64 This user already exist, so please login with this user crediantials
+[32mINFO    [0m root:conftest.py:93 User is logged in with upswing_user_01 username
+[32mINFO    [0m root:product_browsing_page.py:91 Selected product - Sony vaio i7 is successfully added to the cart
+[32mINFO    [0m root:conftest.py:102 Closed the driver session.
