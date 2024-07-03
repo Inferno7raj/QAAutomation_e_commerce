@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Download the latest version of python
 
 # Install browser drivers to use the locally.
